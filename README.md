@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @smajdor-mariusz
+- 👀 I’m interested in frontend
+- 📫 How to reach me - smajdortech@gmail.com
